@@ -3,7 +3,7 @@ This repository contains detailed manual testing artifacts, documentation, and t
 This project about Manual Testing which represent different skills.
 
 ## Author
-- [@NiteshKumar76](https://www.github.com/octokatherine)
+- [@NiteshKumar76](https://github.com/NiteshKumar76)
 
 ## 📌 Project Objective
 

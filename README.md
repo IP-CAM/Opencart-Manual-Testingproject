@@ -16,7 +16,7 @@ To perform manual testing of OpenCart’s core modules and functionalities in or
 
 - BrowserStack / CrossBrowserTesting
 - Google Sheets / Excel for test cases
-- Git & GitHub for version control
+-  GitHub 
 - Snipping Tool / Lightshot for screenshots
   
 ## OpenCart-Manual Testing
